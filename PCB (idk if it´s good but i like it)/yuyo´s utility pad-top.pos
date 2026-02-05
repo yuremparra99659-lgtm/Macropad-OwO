@@ -1,0 +1,14 @@
+### Footprint positions - created on 2026-02-05T14:44:24-0600 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                      PosX       PosY       Rot  Side
+D1        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   162.8248   -88.4788    0.0000  top
+SW1       SW_Push          SW_Cherry_MX_1.00u_PCB                   125.8892   -95.0878    0.0000  top
+SW2       SW_Push          SW_Cherry_MX_1.00u_PCB                   139.0654   -75.9269    0.0000  top
+SW3       SW_Push          SW_Cherry_MX_1.00u_PCB                   152.2415   -95.0878    0.0000  top
+SW4       SW_Push          SW_Cherry_MX_1.00u_PCB                   178.5939   -95.0878    0.0000  top
+SW5       SW_Push          SW_Cherry_MX_1.00u_PCB                   191.2279   -75.9227    0.0000  top
+SW6       SW_Push          SW_Cherry_MX_1.00u_PCB                   204.9462   -95.0878    0.0000  top
+U1        XIAO-RP2040-DIP  XIAO-RP2040-DIP                          162.8248   -75.9202    0.0000  top
+## End

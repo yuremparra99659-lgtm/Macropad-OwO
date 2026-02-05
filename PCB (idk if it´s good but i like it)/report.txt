@@ -1,0 +1,18 @@
+Info: Procesando el símbolo 'D1:LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm'.
+Info: Procesando el símbolo 'D2:LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm'.
+Info: Procesando el símbolo 'D3:LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm'.
+Info: Procesando el símbolo 'SW1:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Procesando el símbolo 'SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Procesando el símbolo 'SW3:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Procesando el símbolo 'SW4:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Procesando el símbolo 'SW5:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Procesando el símbolo 'SW6:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Procesando el símbolo 'U1:sos:XIAO-RP2040-DIP'.
+Info: Número de avisos: 0, errores: 0.
+Reconectar U1 pin 14 de unconnected-(U1-VBUS-Pad14) a +5V.
+Reconectar U1 pin 14 de unconnected-(U1-VBUS-Pad14) a +5V.
+
+
+
+
+Info: Número de avisos: 0, errores: 0.
