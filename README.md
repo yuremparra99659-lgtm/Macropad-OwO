@@ -9,23 +9,24 @@ Yuyo´s Utility Pad is a 6 key macropad that i designed in my free time as a way
 ## Files
 On the folders you can find all the files that are used in this project but here is an overview so you can understand my view of it:
 
-- Case
+- Case:
   It is a simple case, the bottom is where the pcb is stored, the top just has the holes for the keycaps. The usb c port comes out thanks to a cut on the back of the case.
   I wanted to keep it simple so i could put stickers on it (i can´t decide between cat or alien)}
 
   ![WhatsApp Image 2026-02-05 at 8 58 53 PM](https://github.com/user-attachments/assets/6129d715-deba-4bf0-b75c-db881c2c58b2)
 
 
--PCB
+-PCB:
   The switches are arranged in a way that i like to call "wasd without the s", i couldn´t decide between a more conventional way and this one, but i think that it could be more useful      this way (it could be very nice for rythm games). On the center is the XIAO RP2040 and a LED that i hope it can be seen between the switch spaces.
 
-  ![WhatsApp Image 2026-02-05 at 8 58 53 PM](https://github.com/user-attachments/assets/63c11281-0f2e-4c54-a25e-6e9330b01329)
+  ![WhatsApp Image 2026-02-05 at 5 50 19 PM](https://github.com/user-attachments/assets/c7856add-185b-4e7d-9f96-e9972835e9cb)
+
 
   ![WhatsApp Image 2026-02-05 at 5 08 33 PM](https://github.com/user-attachments/assets/79ad6910-3bd0-403c-b94d-92822b15e7d9)
 
 
 
--Code
+-Code:
   I wanted to use Circuitpython mainly because i want to learn more about python in general, it´s something that i want to do but i never find a real motivation to do it, and this is a     good one.
 
 ## Materials
